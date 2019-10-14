@@ -1,0 +1,20 @@
+.gradle/
+gradle/
+build/
+out/
+
+# Mac specific files
+.DS_Store
+
+# Vim
+.*.sw[0-9a-zA-Z]
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse
+.apt_generated/
+.Rproj.user
